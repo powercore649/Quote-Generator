@@ -58,7 +58,7 @@ async function getQuotes() {
 
 function discordQuote() {
     const request = new XMLHttpRequest();
-    request.open("POST", "https://discord.com/api/webhooks/1167268827789271160/R2QnZll0dPiWkbQAQCROHHg7Vb5TLKhbLv_oyVIiSXg5ZbfxF_c6DGJK3oyREVE4_jYx");
+    request.open("POST", "https://discord.com/api/webhooks/1288623896181997588/JM4GtdSMYYgQVvrkwqZYdE8S6S7Lv3co3MBQcyFvWKf0jHAOOYpSuT3JiseBMMdYy3FT");
 
     request.setRequestHeader('Content-type', 'application/json');
 
